@@ -4,9 +4,10 @@
 This repository contains projects that I've created while learning embedded software development with STM32F4 microcontrollers. The projects include GPIO, UART, PWM, ADC, and more.
 
 ## 📂 Project List
-- **[Button Controlled LED Blink](STM32F4_Projects/Blinking LED/01_Button_LED_Blink.c)** → Button controlled LED blinking.
-- **[UART Communication](-)** → UART communication between STM32 and a computer.
-- **[PWM Servo Control](-)** → PWM control for servo motors.
+
+**[Button Controlled LED Blink](Blinking LED)** → Button controlled LED blinking.
+**[UART Communication](-)** → UART communication between STM32 and a computer.
+**[PWM Servo Control](-)** → PWM control for servo motors.
 
 Each project has its own README.md with detailed instructions.
 
