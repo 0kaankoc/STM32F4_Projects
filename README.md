@@ -5,7 +5,7 @@ This repository contains projects that I've created while learning embedded soft
 
 ## 📂 Project List
 
-- **[Blinking LED](-)** → GPIO-based LED blinking.
+- **[Blinking LED](./STM32F4_Projects/Blinking LED)** → GPIO-based LED blinking.
 - **[UART Communication](-)** → UART communication between STM32 and a computer.
 - **[PWM Servo Control](-)** → PWM control for servo motors.
 
