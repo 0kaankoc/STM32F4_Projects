@@ -7,7 +7,7 @@ This repository contains projects that I've created while learning embedded soft
 
 - **[Button Controlled LED Blink](Blinking_LED/01_Button_LED_Blink.c)** → This project demonstrates controlling an LED using a button with GPIO and delays.
 - **[UART Communication](-)** → UART communication between STM32 and a computer.
-- **[PWM Servo Control](PWM_Servo_Control/main.c)** → PWM control for servo motors.
+- **[PWM Servo Control](PWM_Servo_Control/servo_control.c)** → PWM control for servo motors.
 
 Each project has its own README.md with detailed instructions.
 
